@@ -1,9 +1,4 @@
-/**
- * File: Converting Data Types
- * Author: Mr. Kalisz
- * Date Created: Mar 4, 2026
- * Date Last Modified: Mar 4, 2026
- */
+
 
 class Notes {
 	public static void main(String[] args) {
